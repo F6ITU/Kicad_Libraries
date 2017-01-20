@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SW-226-PIN
+D Ma-Com SW226-PIN
+$ENDCMP
+#
+$CMP SW-227-PIN
+D Ma-Com SW227-PIN
+$ENDCMP
+#
+$CMP SW-228-PIN
+D Ma-Com SW228-PIN
+$ENDCMP
+#
+#End Doc Library
